@@ -1,1 +1,1 @@
-# calculadora-js
+[![Build Status](https://app.travis-ci.com/antoniotnn/calculadora-js.svg?branch=master)](https://app.travis-ci.com/antoniotnn/calculadora-js)
